@@ -1,0 +1,31 @@
+---
+owner: James King
+studio_id: ST-0001
+location: Warehouse A
+ref_link: https://example.com/1
+value: 250.75
+age: 3.5
+in_use: true
+in_working_condition: true
+
+---
+
+owner: Sarah Collins
+studio_id: ST-0002
+location: Studio 4
+ref_link: https://example.com/2
+value: 82.00
+age: 1.2
+in_use: false
+in_working_condition: true
+
+---
+
+owner: Michael Adams
+studio_id: ST-0003
+location: Workshop
+ref_link: https://example.com/3
+value: 650.00
+age: 8.1
+in_use: true
+in_working_condition: false
