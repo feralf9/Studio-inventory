@@ -1,31 +1,55 @@
 ---
-owner: James King
-studio_id: ST-0001
-location: Warehouse A
+item: wet dog furnace 1
+owner: Glass Axis
+studio_id: WD1
+location: Hot Shop
 ref_link: https://example.com/1
-value: 250.75
-age: 3.5
+value: 0
+age: 0
 in_use: true
 in_working_condition: true
 
 ---
-
-owner: Sarah Collins
-studio_id: ST-0002
-location: Studio 4
+item: wet dog furnace 2
+owner: Glass Axis
+studio_id: WD2
+location: hot shop bay 4
 ref_link: https://example.com/2
-value: 82.00
-age: 1.2
-in_use: false
+value: 0
+age: 0
+in_use: true
 in_working_condition: true
 
 ---
-
-owner: Michael Adams
-studio_id: ST-0003
-location: Workshop
+item: wet dog drop kiln
+owner: Jessie zwicky
+studio_id: JZ-DK-01
+location: by east facing garage door
 ref_link: https://example.com/3
-value: 650.00
-age: 8.1
-in_use: true
+value: 0
+age: o
+in_use: false
+in_working_condition: false
+
+---
+item: one small drop kiln
+owner: Scott
+studio_id: sc-DK-02
+location: ?
+ref_link: https://example.com/3
+value: 0
+age: o
+in_use: false
+in_working_condition: false
+
+---
+
+item: paragon small kiln
+owner: Alex French
+studio_id: AF-SK-03
+location: jewelry studio room
+ref_link: https://example.com/3
+value: 0
+age: o
+in_use: false
 in_working_condition: false
