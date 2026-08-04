@@ -29,6 +29,16 @@ value: 0,
 age: 0,
 in_use: false,
 in_working_condition: false
+},{
+item: "iMac office computer",
+owner: "James King",
+studio_id: "JK-iMac-01",
+location: "jewelry studio room",
+ref_link: "https://example.com/3",
+value: 0,
+age: 13,
+in_use: true,
+in_working_condition: true
 }
 
 ]);
