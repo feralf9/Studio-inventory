@@ -1,69 +1,27 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
+
 <head>
 
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="utf-8">
 
-<title>Simple Database</title>
+<title>Studio Database</title>
 
-<style>
-
-body{
-    font-family:Arial,Helvetica,sans-serif;
-    background:#f5f5f5;
-    margin:40px;
-}
-
-h1{
-    margin-top:0;
-}
-
-#search{
-    width:100%;
-    padding:10px;
-    font-size:16px;
-    margin-bottom:20px;
-    box-sizing:border-box;
-}
-
-.entry{
-
-    background:white;
-    border:1px solid #ccc;
-    border-radius:6px;
-
-    padding:15px;
-    margin-bottom:15px;
-
-}
-
-.field{
-    margin:3px 0;
-}
-
-.fieldName{
-    font-weight:bold;
-    display:inline-block;
-    width:180px;
-}
-
-</style>
+<link rel="stylesheet" href="style.css">
 
 </head>
 
 <body>
 
-<h1>Simple Database</h1>
+<h1>Studio Database</h1>
 
-<input
-id="search"
-type="text"
-placeholder="Search...">
+<input id="search" placeholder="Search...">
 
 <div id="results"></div>
 
 <script src="app.js"></script>
+<script src="database.js"></script>
 
 </body>
+
 </html>
